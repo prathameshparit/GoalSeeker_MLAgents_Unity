@@ -1,0 +1,16 @@
+# Set the default behavior to automatically normalize line endings.
+* text=auto
+
+# Explicitly set certain file types to specific line endings.
+*.cs text eol=lf
+*.shader text eol=lf
+*.mat text eol=lf
+*.unity text eol=lf
+*.meta text eol=lf
+
+# Binary files (do not change line endings).
+*.png binary
+*.jpg binary
+*.fbx binary
+*.prefab binary
+
